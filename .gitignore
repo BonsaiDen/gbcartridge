@@ -1,0 +1,8 @@
+*.pcb-*
+*.sch#
+*.sch~
+*.sym~
+*.fp~
+*.fp-*
+cartridge.cmd
+cartridge.net

@@ -1,0 +1,3 @@
+elements-dir ./footprints
+schematics cartridge.sch
+output-name cartridge
